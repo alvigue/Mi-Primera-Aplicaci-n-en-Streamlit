@@ -1,5 +1,5 @@
 import streamlit as st 
-st.logo("Imagenes\logo_ucg.png")
+#st.logo("Imagenes\logo_ucg.png")
 st.markdown("# Ingreso de Datos")
 #
 # Implementación de Widgets Interactivos
