@@ -1,9 +1,9 @@
 import streamlit as st 
-#st.logo("Imagenes\logo_ucg.png")
+st.logo("logo_ucg.png")
 #
 # Cabecera del formulario
 #
-#st.image("Imagenes\logo_ucg.png")
+st.image("logo_ucg.png")
 st.markdown("<h1 style='text-align: center;'>UNIVERSIDAD CASA GRANDE</h1>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center;'>MAESTRÍA EN INTELIGENCIA ARTIFICIAL Y CIENCIA DE DATOS</h2>", unsafe_allow_html=True)
 st.subheader('Paradigmas de Programación para Inteligencia Artificial y Análisis de Datos')
